@@ -1,4 +1,4 @@
-"""python script used to compare 2 text files and print the difference."""
+"""python script used to compare 2 text files and save the difference in a new txt file."""
 
 import os
 import time
